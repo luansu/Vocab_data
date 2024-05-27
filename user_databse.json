@@ -54,7 +54,7 @@
                     "type": 2,
                     "authorId": 0,
                     "author": "trungphien456",
-                    "listId": [
+                    "listWordId": [
                         0,
                         1,
                         2
@@ -69,7 +69,7 @@
                     "type": 1,
                     "authorId": 1,
                     "author": "trungphien456",
-                    "listId": [
+                    "listWordId": [
                         0
                     ]
                 },
@@ -82,7 +82,7 @@
                     "type": 3,
                     "authorId": 1,
                     "author": "luansu123",
-                    "listId": [
+                    "listWordId": [
                         1,2
                     ]
                 }
@@ -176,7 +176,7 @@
                     "type": 2,
                     "authorId": 1,
                     "author": "luansu123",
-                    "listId": [
+                    "listWordId": [
                         0,
                         1,
                         2
@@ -191,7 +191,7 @@
                     "type": 1,
                     "authorId": 1,
                     "author": "luansu123",
-                    "listId": [
+                    "listWordId": [
                         0
                     ]
                 }
