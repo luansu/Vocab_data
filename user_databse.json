@@ -5,8 +5,20 @@
         "vocabularyAbility": 1.5,
         "testResult": [
             {
-                "idWordsTest": [20, 17, 28, 32, 100],
-                "resultResponses": [0, 1, 1, 0, 1],
+                "idWordsTest": [
+                    20,
+                    17,
+                    28,
+                    32,
+                    100
+                ],
+                "resultResponses": [
+                    0,
+                    1,
+                    1,
+                    0,
+                    1
+                ],
                 "testDate": "2024-05-20"
             }
         ],
@@ -15,51 +27,100 @@
             "lazyDate": "2024-05-21",
             "numsDaysLazy": 1
         },
-        "Learned_words": [
-            {
-                "listIdWords": [0, 1, 2]
-            },
-            {
-                "id": 0,
-                "word": "adjective",
-                "bj_normalized": -2.3342696629213484,
-                "correctResponseTime": 1,
-                "incorrectResponseTime": 0,
-                "isLastResponseCorrect": true,
-                "memoryCircle": 1,
-                "learnDate": "2024-05-20"
-            },
-            {
-                "id": 1,
-                "word": "adverb",
-                "bj_normalized": -2.392322097378277,
-                "correctResponseTime": 1,
-                "incorrectResponseTime": 0,
-                "isLastResponseCorrect": true,
-                "memoryCircle": 1,
-                "learnDate": "2024-05-20"
-            },
-            {
-                "id": 2,
-                "word": "april",
-                "bj_normalized": -2.588014981273408,
-                "correctResponseTime": 1,
-                "incorrectResponseTime": 0,
-                "isLastResponseCorrect": true,
-                "memoryCircle": 1,
-                "learnDate": "2024-05-20"
-            }
-        ]
+        "Learned_words": {
+            "listWords": [
+                {
+                    "id": 0,
+                    "title": "Daily Word",
+                    "date": "27/3/2024",
+                    "words": 30,
+                    "completed": false,
+                    "type": 1,
+                    "listWordId": [
+                        0,
+                        1,
+                        2
+                    ]
+                },
+                {
+                    "id": 1,
+                    "title": "Vocation",
+                    "date": "27/3/2024",
+                    "words": 30,
+                    "completed": true,
+                    "type": 2,
+                    "listId": [
+                        0,
+                        1,
+                        2
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "HomeTown",
+                    "date": "27/3/2024",
+                    "words": 30,
+                    "completed": true,
+                    "type": 1,
+                    "listId": [
+                        0
+                    ]
+                }
+            ],
+            "wordRecord": [
+                {
+                    "id": 0,
+                    "word": "adjective",
+                    "bj_normalized": -2.3342696629213484,
+                    "correctResponseTime": 1,
+                    "incorrectResponseTime": 0,
+                    "isLastResponseCorrect": true,
+                    "memoryCircle": 1,
+                    "learnDate": "2024-05-20"
+                },
+                {
+                    "id": 1,
+                    "word": "adverb",
+                    "bj_normalized": -2.392322097378277,
+                    "correctResponseTime": 1,
+                    "incorrectResponseTime": 0,
+                    "isLastResponseCorrect": true,
+                    "memoryCircle": 1,
+                    "learnDate": "2024-05-20"
+                },
+                {
+                    "id": 2,
+                    "word": "april",
+                    "bj_normalized": -2.588014981273408,
+                    "correctResponseTime": 1,
+                    "incorrectResponseTime": 0,
+                    "isLastResponseCorrect": true,
+                    "memoryCircle": 1,
+                    "learnDate": "2024-05-20"
+                }
+            ]
+        }
     },
-
     {
         "userName": "luansu123",
         "passWord": "luan123@",
         "vocabularyAbility": 2,
         "testResult": [
             {
-                "iDWordsTest": [20, 17, 28, 32, 100],
-                "resultResponses": [0, 1, 1, 0, 1],
+                "iDWordsTest": [
+                    20,
+                    17,
+                    28,
+                    32,
+                    100
+                ],
+                "resultResponses": [
+                    0,
+                    1,
+                    1,
+                    0,
+                    1
+                ],
                 "learnDate": "2024-05-20"
             }
         ],
@@ -69,41 +130,77 @@
             "numsDaysLazy": 1
         },
         "Learned_words": {
-        
-        "listIdLearnedWords": [0, 1, 2]
-            ,
-        "list_learned_word": [
-            {
-                "id": 0,
-                "word": "adjective",
-                "bj_normalized": -2.3342696629213484,
-                "correctResponseTime": 1,
-                "incorrectResponseTime": 0,
-                "isLastResponseCorrect": true,
-                "memoryCircle": 1,
-                "learnDate": "2024-05-20"
-            },
-            {
-                "id": 1,
-                "word": "adverb",
-                "bj_normalized": -2.392322097378277,
-                "correctResponseTime": 1,
-                "incorrectResponseTime": 0,
-                "isLastResponseCorrect": true,
-                "memoryCircle": 1,
-                "learnDate": "2024-05-20"
-            },
-            {
-                "id": 2,
-                "word": "april",
-                "bj_normalized": -2.588014981273408,
-                "correctResponseTime": 1,
-                "incorrectResponseTime": 0,
-                "isLastResponseCorrect": true,
-                "memoryCircle": 1,
-                "learnDate": "2024-05-20"
-            }
-        ]
+            "listWords": [
+                {
+                    "id": 0,
+                    "title": "Daily Word",
+                    "date": "27/3/2024",
+                    "words": 30,
+                    "completed": false,
+                    "type": 1,
+                    "listWordId": [
+                        0,
+                        1,
+                        2
+                    ]
+                },
+                {
+                    "id": 1,
+                    "title": "Vocation",
+                    "date": "27/3/2024",
+                    "words": 30,
+                    "completed": true,
+                    "type": 2,
+                    "listId": [
+                        0,
+                        1,
+                        2
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "HomeTown",
+                    "date": "27/3/2024",
+                    "words": 30,
+                    "completed": true,
+                    "type": 1,
+                    "listId": [
+                        0
+                    ]
+                }
+            ],
+            "wordRecord": [
+                {
+                    "id": 0,
+                    "word": "adjective",
+                    "bj_normalized": -2.3342696629213484,
+                    "correctResponseTime": 1,
+                    "incorrectResponseTime": 0,
+                    "isLastResponseCorrect": true,
+                    "memoryCircle": 1,
+                    "learnDate": "2024-05-20"
+                },  
+                {
+                    "id": 1,
+                    "word": "adverb",
+                    "bj_normalized": -2.392322097378277,
+                    "correctResponseTime": 1,
+                    "incorrectResponseTime": 0,
+                    "isLastResponseCorrect": true,
+                    "memoryCircle": 1,
+                    "learnDate": "2024-05-20"
+                },
+                {
+                    "id": 2,
+                    "word": "april",
+                    "bj_normalized": -2.588014981273408,
+                    "correctResponseTime": 1,
+                    "incorrectResponseTime": 0,
+                    "isLastResponseCorrect": true,
+                    "memoryCircle": 1,
+                    "learnDate": "2024-05-20"
+                }
+            ]
         }
     }
 ]
