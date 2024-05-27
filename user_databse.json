@@ -1,0 +1,109 @@
+[
+    {
+        "userName": "trungphien456",
+        "passWord": "phien123@",
+        "vocabularyAbility": 1.5,
+        "testResult": [
+            {
+                "idWordsTest": [20, 17, 28, 32, 100],
+                "resultResponses": [0, 1, 1, 0, 1],
+                "testDate": "2024-05-20"
+            }
+        ],
+        "reviews": {
+            "isReview": false,
+            "lazyDate": "2024-05-21",
+            "numsDaysLazy": 1
+        },
+        "Learned_words": [
+            {
+                "listIdWords": [0, 1, 2]
+            },
+            {
+                "id": 0,
+                "word": "adjective",
+                "bj_normalized": -2.3342696629213484,
+                "correctResponseTime": 1,
+                "incorrectResponseTime": 0,
+                "isLastResponseCorrect": true,
+                "memoryCircle": 1,
+                "learnDate": "2024-05-20"
+            },
+            {
+                "id": 1,
+                "word": "adverb",
+                "bj_normalized": -2.392322097378277,
+                "correctResponseTime": 1,
+                "incorrectResponseTime": 0,
+                "isLastResponseCorrect": true,
+                "memoryCircle": 1,
+                "learnDate": "2024-05-20"
+            },
+            {
+                "id": 2,
+                "word": "april",
+                "bj_normalized": -2.588014981273408,
+                "correctResponseTime": 1,
+                "incorrectResponseTime": 0,
+                "isLastResponseCorrect": true,
+                "memoryCircle": 1,
+                "learnDate": "2024-05-20"
+            }
+        ]
+    },
+
+    {
+        "userName": "luansu123",
+        "passWord": "luan123@",
+        "vocabularyAbility": 2,
+        "testResult": [
+            {
+                "iDWordsTest": [20, 17, 28, 32, 100],
+                "resultResponses": [0, 1, 1, 0, 1],
+                "learnDate": "2024-05-20"
+            }
+        ],
+        "reviews": {
+            "isReview": false,
+            "lazyDate": "2024-05-21",
+            "numsDaysLazy": 1
+        },
+        "Learned_words": {
+        
+        "listIdLearnedWords": [0, 1, 2]
+            ,
+        "list_learned_word": [
+            {
+                "id": 0,
+                "word": "adjective",
+                "bj_normalized": -2.3342696629213484,
+                "correctResponseTime": 1,
+                "incorrectResponseTime": 0,
+                "isLastResponseCorrect": true,
+                "memoryCircle": 1,
+                "learnDate": "2024-05-20"
+            },
+            {
+                "id": 1,
+                "word": "adverb",
+                "bj_normalized": -2.392322097378277,
+                "correctResponseTime": 1,
+                "incorrectResponseTime": 0,
+                "isLastResponseCorrect": true,
+                "memoryCircle": 1,
+                "learnDate": "2024-05-20"
+            },
+            {
+                "id": 2,
+                "word": "april",
+                "bj_normalized": -2.588014981273408,
+                "correctResponseTime": 1,
+                "incorrectResponseTime": 0,
+                "isLastResponseCorrect": true,
+                "memoryCircle": 1,
+                "learnDate": "2024-05-20"
+            }
+        ]
+        }
+    }
+]
