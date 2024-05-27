@@ -66,6 +66,17 @@
                     "listId": [
                         0
                     ]
+                },
+                {
+                    "id": 3,
+                    "title": "BathRoom",
+                    "date": "27/3/2024",
+                    "words": 30,
+                    "completed": true,
+                    "type": 1,
+                    "listId": [
+                        1,2
+                    ]
                 }
             ],
             "wordRecord": [
